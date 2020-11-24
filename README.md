@@ -10,5 +10,5 @@ Then run npm install
 
 Then run
 
-`npm run build`
+`npm run start`
 
