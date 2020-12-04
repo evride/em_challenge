@@ -1,4 +1,4 @@
-import './List.scss';
+import './List.css';
 import TodoItem from './TodoItem';
 
 function List(props) {

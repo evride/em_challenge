@@ -1,4 +1,4 @@
-import './App.scss';
+import './App.css';
 import { useState } from 'react';
 
 import List from './components/List';
@@ -6,7 +6,6 @@ import TodoInput from './components/TodoInput';
 
 function App() {
   const [ todoList, setTodoList ] = useState([]);
-  const [ isInit, setIsInit ] = useState(false);
 
   const addTodoListItem = (str) => {
     //Adds a todo item to the todoList

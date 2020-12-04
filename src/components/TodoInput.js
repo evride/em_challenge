@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './TodoInput.scss';
+import './TodoInput.css';
 
 
 function TodoInput(props) {
